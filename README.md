@@ -1,6 +1,6 @@
 ## DXCC World Map
 
-A GeoJSON representation of Earth, divided into DXCC entities.
+A GeoJSON representation of Earth, divided into DXCC entities with corrected Kosovo and Somaliland
 
 ### About DXCC
 
